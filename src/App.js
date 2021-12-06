@@ -52,7 +52,7 @@ function App() {
           <StyledCard>
           <a
             className="App-link"
-            href="https://privateavax.dexyswap.com/"
+            href="https://privateavax.dexy.com/"
             style={{border: "2px solid #e84142"}}
           >
             <img width="56px" src={avaxLogo}  alt="avax network-logo" />
@@ -61,7 +61,7 @@ function App() {
           </a> 
           <a
             className="App-link"
-            href="https://privatebsc.dexyswap.com/"
+            href="https://privatebsc.dexy.com/"
             style={{border: "2px solid rgb(243, 186, 47)",}}
           >
             <img width="56px" src={bscLogo}  alt="bsc network-logo" />
